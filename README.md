@@ -205,14 +205,7 @@ Every push triggers the CI Pipeline:
 
 ---
 
-## 👨‍💻 About Me
 
-* 💼 **LinkedIn:** [Anurag Raj](https://www.linkedin.com/in/anurag-raj-770b6524a)
-* 📊 **Kaggle:** [Anurag's Kaggle Projects](https://www.kaggle.com/anuragraj03/code)
-* 📬 **Gmail:** [anuragraj4483@gmail.com](mailto:anuragraj4483@gmail.com)
-* 🐳 **DockerHub:** [Anime MLOps Docker Images](https://hub.docker.com/repository/docker/anuragraj03/mlops_recommendation/tags)
-
----
 
 # 🌟 Thank You for Visiting! 🌟
 
