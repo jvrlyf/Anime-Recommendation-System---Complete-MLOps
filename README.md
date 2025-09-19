@@ -79,7 +79,7 @@ Recommendatuon_System_MLOPS/
 Clone the repository first:
 
 ```bash
-git clone https://github.com/Anurag-raj03/Recommendatuon_System_MLOPS.git
+git clone https://github.com/jvrlyf/Recommendatuon_System_MLOPS.git
 cd Recommendatuon_System_MLOPS
 ```
 
